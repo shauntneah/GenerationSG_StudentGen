@@ -78,7 +78,6 @@ Showing student's passing course tracks:
 For ease of code evaluation (to reviewers), I have commented my code injections with:
 
 //@@ mycodes
- {-}
 //@@ end my codes
 
 ----------
